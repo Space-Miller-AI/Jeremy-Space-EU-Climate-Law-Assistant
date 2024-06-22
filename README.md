@@ -23,5 +23,3 @@ Here's a description of the functionality of a chatbot supporting EU Climate Law
 
 6. Training and Awareness:
    - The bot conducts training sessions and provides resources to legal professionals and businesses to increase awareness and understanding of EU climate laws and their implications.
-
-By leveraging this platform, users can access advanced legal analysis and advice on EU climate change issues, ensuring effective and compliant approaches to climate-related matters.
