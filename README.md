@@ -1,5 +1,7 @@
 # Jeremy-Space-EU-Climate-Law-Assistant
 
+This chatbot supports EU Climate Law by interpreting a wide range of EU climate-related legal documents, advising on compliance, and offering strategic guidance. It assists in policy implementation, risk management, and conducts training sessions to increase awareness of EU climate laws. Users can access advanced legal analysis and advice on climate change issues, ensuring effective and compliant approaches to climate-related matters.
+
 https://chatgpt.com/g/g-ZeGDCSkzv-jeremy-space-eu-climate-law-assistant
 
 Here's a description of the functionality of a chatbot supporting EU Climate Law, outlining what it can do and what it focuses on:
